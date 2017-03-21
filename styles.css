@@ -1,0 +1,30 @@
+
+.pig
+{
+	width: 300px;
+	border: 20px;
+}
+
+.body {
+	width: 300px; 
+	box-shadow:10px 10px 5px #888888;
+
+}
+
+.ai,.body  {
+	border-style: solid;
+	border-width: thin;
+	border-color:#828282;
+	padding: 10px; 
+	border-radius: 5px; 	
+}
+
+.info {
+	font-style: italic;
+}
+
+
+span {
+	font-weight: bold; 
+}
+/* add your CSS here */
